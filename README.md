@@ -338,8 +338,8 @@ No LLM API key is required. The MVP ships a deterministic hybrid mock provider (
 ### 1. Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd <YOUR_REPOSITORY_DIRECTORY>
+git clone https://github.com/Rasheed-7/invoice-intelligence.git
+cd invoice-intelligence
 ```
 
 ### 2. Configure the Environment
